@@ -1,16 +1,29 @@
 #Nick Dyer - Curriculum Vitae
 
 ###Code
+#####hipSpot
+
+| Project                                     | Technologies | Testing  | Misc                  |
+|---------------------------------------------|--------------|----------|-----------------------|
+| [Github](https://github.com/ejbyne/hipspot) | MongoDB      | Mocha    | Grunt                 |
+| [EC2](http://hipspot.uk/)                   | ExpressJS    | CasperJS | Google Places API     |
+|                                             | Javascript   | Chai     | Twitter Streaming API |
+|                                             | NodeJS       | Hippie   | AWS EC2               |
+|                                             | JQuery       | Jasmine  | Ubuntu Server         |
+|                                             | HTML         | JSHint   |                       |
+|                                             | CSS          | Istanbul |                       |
+|                                             | Foundation   |          |                       |
+
+
 #####Sports Ladder
 
-| Links                                               | Technologies  | Testing   |
-|---------------------------------------------------  |-------------- |---------- |
-| [Github](https://github.com/ralake/sports_ladder)   | MongoDB       | Mocha     |
-| [Heroku](http://sportsladder.herokuapp.com/)        | ExpressJS     | CasperJS  |
-|                                                     | AngularJS     | Chai      |
-|                                                     | Node          | Hippie    |
-|                                                     |               |           |
-|                                                     |               |           |
+| Links                                               | Technologies  | Testing   |Misc  |
+|---------------------------------------------------  |-------------- |---------- |------|
+| [Github](https://github.com/ralake/sports_ladder)   | MongoDB       | Mocha     |Grunt |
+| [Heroku](http://sportsladder.herokuapp.com/)        | ExpressJS     | CasperJS  |      |
+|                                                     | AngularJS     | Chai      |      |
+|                                                     | Node          | Hippie    |      |
+
 ###Employment
 #####February 2012 - September 2014
 ######Project Manager – Environ Audio Ltd,  Battersea

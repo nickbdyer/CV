@@ -1,5 +1,8 @@
 #Nick Dyer - Curriculum Vitae
 
+![alt text](images/photo.jpg
+"Nick Dyer")
+
 ###Code
 #####Sports Ladder
 

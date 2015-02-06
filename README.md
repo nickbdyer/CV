@@ -1,7 +1,8 @@
 <p align="right">
   <img src="images/photo.jpg"/>
+  #Nick Dyer - Curriculum Vitae
 </p>
-#Nick Dyer - Curriculum Vitae
+
 
 ###Code
 #####hipSpot

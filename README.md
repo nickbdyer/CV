@@ -1,7 +1,5 @@
 #Nick Dyer - Curriculum Vitae
-
-![alt text](images/photo.jpg
-"Nick Dyer")
+<img style="float: right" src="images/photo.jpg">
 
 ###Code
 #####hipSpot

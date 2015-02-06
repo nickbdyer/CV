@@ -1,5 +1,5 @@
+<img style="float: right;" src="images/photo.jpg"/>
 #Nick Dyer - Curriculum Vitae
-<img style="float: right" src="images/photo.jpg">
 
 ###Code
 #####hipSpot

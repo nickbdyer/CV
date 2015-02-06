@@ -27,6 +27,15 @@
 |                                                     | AngularJS     | Chai      |      |
 |                                                     | Node          | Hippie    |      |
 
+#####Sudoku Solver
+
+| Links                                                    | Technologies  | Testing     |Misc  |
+|--------------------------------------------------------  |-------------- |------------ |------|
+| [Github](https://github.com/nickbdyer/Sudoku-Challenge)  | Node          | Mocha       |Grunt |
+|                                                          | ExpressJS     | CucumberJS  |      |
+|                                                          | AngularJS     | Chai        |      |
+
+
 ###Employment
 #####February 2012 - September 2014
 ######Project Manager – Environ Audio Ltd,  Battersea

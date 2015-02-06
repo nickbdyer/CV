@@ -1,4 +1,6 @@
-<img style="float: right;" src="images/photo.jpg"/>
+<p align="right">
+  <img src="images/photo.jpg"/>
+</p>
 #Nick Dyer - Curriculum Vitae
 
 ###Code

@@ -1,8 +1,5 @@
-<p align="right">
-  <h1>Nick Dyer - Curriculum Vitae</h1>
-  <img src="images/photo.jpg"/>
-</p>
-
+![alt text](images/header.png
+"Nick Dyer CV")
 
 ###Code
 #####hipSpot

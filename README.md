@@ -1,6 +1,6 @@
 <p align="right">
+  <h1>Nick Dyer - Curriculum Vitae</h1>
   <img src="images/photo.jpg"/>
-  #Nick Dyer - Curriculum Vitae
 </p>
 
 

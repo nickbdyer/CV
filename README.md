@@ -27,13 +27,13 @@
 |                                                     | AngularJS     | Chai      |      |
 |                                                     | Node          | Hippie    |      |
 
-#####Sudoku Solver
+#####Sudoku Solver (Unfinished)
 
 | Links                                                    | Technologies  | Testing     |Misc  |
 |--------------------------------------------------------  |-------------- |------------ |------|
 | [Github](https://github.com/nickbdyer/Sudoku-Challenge)  | Node          | Mocha       |Grunt |
 |                                                          | ExpressJS     | CucumberJS  |      |
-|                                                          | AngularJS     | Chai        |      |
+|                                                          | Javascript    | Chai        |      |
 
 
 ###Employment

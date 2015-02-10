@@ -1,6 +1,11 @@
 ![alt text](images/header.png
 "Nick Dyer CV")
 
+I am a London based full-stack junior developer. My previous work includes
+4 years in residential home automation, first as a designer, then project
+manager. I am hunting for a fantastic agile team, that will give me the chance to
+develop further and build some great products!
+
 ###Code
 #####hipSpot
 

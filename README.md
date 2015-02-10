@@ -30,13 +30,21 @@ develop further and build some great products!
 |                                                     | AngularJS     | Chai      |      |
 |                                                     | Node          | Hippie    |      |
 
+#####Bowling Scorecard
+
+| Links                                                    | Technologies  | Testing     |Misc       |
+|--------------------------------------------------------  |-------------- |------------ |---------  |
+| [Github](https://github.com/nickbdyer/bowling-scorecard) | Javascript    | Jasmine     |Twilio API |
+|                                                          |               | Istanbul    |TDD        |
+|                                                          |               |             |OOP        |
+
 #####Sudoku Solver (Unfinished)
 
 | Links                                                    | Technologies  | Testing     |Misc  |
 |--------------------------------------------------------  |-------------- |------------ |------|
 | [Github](https://github.com/nickbdyer/Sudoku-Challenge)  | Node          | Mocha       |Grunt |
-|                                                          | ExpressJS     | CucumberJS  |      |
-|                                                          | Javascript    | Chai        |      |
+|                                                          | ExpressJS     | CucumberJS  |TDD, BDD |
+|                                                          | Javascript    | Chai        |OOP   |
 
 
 #####Takeaway

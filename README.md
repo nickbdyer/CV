@@ -57,6 +57,13 @@ develop further and build some great products!
 
 
 ###Employment
+#####February 2015 - Present
+######Alumnni Helper – Makers Academy, London
+
+- Assisted students with programming issues, helping them to understand
+  principles to improve their software development.
+
+
 #####February 2012 - September 2014
 ######Project Manager – Environ Audio Ltd,  Battersea
 - Collaborated with  designers,  architects,  engineers,   site  managers  and clients as  the  primary point of  contact. 

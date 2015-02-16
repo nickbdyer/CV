@@ -58,7 +58,7 @@ develop further and build some great products!
 
 ###Employment
 #####February 2015 - Present
-######Alumnni Helper – Makers Academy, London
+######Alumni Helper – Makers Academy, London
 
 - Assisted students with programming issues, helping them to understand
   principles to improve their software development.
